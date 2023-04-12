@@ -1,6 +1,15 @@
-
+.Background {
+    background-image: url(../img/darkwood.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 435px;
+}
 
 .snapchat, .instagram, .mail {
     text-decoration: none;
     color: black;
+}
+
+.rounded {
+    border: 1px solid #696969;
 }
