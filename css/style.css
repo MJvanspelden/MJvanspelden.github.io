@@ -1,8 +1,20 @@
-.Background {
+.background {
     background-image: url(../img/darkwood.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 435px;
+}
+
+.background-about-me {
+    background-image: url(../img/backgroundAboutMe.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navigation {
+    overflow: hidden;
+    position: fixed;
+    top: 35%;
 }
 
 .snapchat, .instagram, .mail {
