@@ -9,6 +9,7 @@
     background-image: url(../img/backgroundAboutMe.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    padding-bottom: 320px;
 }
 
 .navigation {
