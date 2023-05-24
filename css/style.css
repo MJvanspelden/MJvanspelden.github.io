@@ -5,11 +5,8 @@
     padding-bottom: 435px;
 }
 
-.background-about-me {
-    background-image: url(../img/backgroundAboutMe.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding-bottom: 320px;
+.Home {
+    padding-bottom: 450px;
 }
 
 .navigation {
