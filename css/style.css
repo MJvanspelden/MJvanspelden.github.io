@@ -2,11 +2,14 @@
     background-image: url(../img/darkwood.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding-bottom: 435px;
 }
 
 .Home {
     padding-bottom: 450px;
+}
+
+#scrollspyHome {
+    overflow-y: hidden;
 }
 
 .navigation {
