@@ -1,9 +1,8 @@
 .background {
-    background-image: url(../img/darkwood.jpg);
+    background-image: url(../img/grayhexagon.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
-
 
 #scrollspyHome {
     overflow-y: hidden;
@@ -15,11 +14,12 @@
     top: 35%;
 }
 
-.snapchat, .instagram, .mail {
-    text-decoration: none;
-    color: black;
-}
-
 .rounded {
     border: 1px solid #696969;
+}
+
+.socials {
+    font-size: 150px;
+    padding-top: 300px;
+    text-decoration: none;
 }
